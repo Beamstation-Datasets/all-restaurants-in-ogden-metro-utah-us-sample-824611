@@ -1,6 +1,6 @@
 # All Restaurants in Ogden (Metro), Utah, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 88 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `824611` |
 | Location | Ogden, UT |
 | Category | Restaurants |
-| Full dataset size | 683 records |
-| Free sample size | 25 records (3.66%) |
-| Last export | 2026-03-31T13:56:51.462369+00:00 |
+| Full dataset size | 883 records |
+| Free sample size | 88 records (9.97%) |
+| Last export | 2026-04-14T14:21:49.149867+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-ogden-metro-utah-us-sample-824611/releases/download/sample-latest/beamstation_824611_restaurants-us-ogdenut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
